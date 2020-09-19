@@ -5,7 +5,7 @@
 </h1>
 
 <h1 align="center">
-<img alt="logo LunchBase" src="https://hermes.digitalinnovation.one/site/images/logo-sm-white.png" width="400px">
+<img alt="logo LunchBase" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS1OXUFeAAKnL7l6wXc7IfvC9r9edDlMnmzO_bJV4O5aoH_7PmvNaGAiKAmu1x5WxpOFDPbQkCmJpgtchs-zQNvwQ&usqp=CAU&ec=45702847" width="400px">
 </h1>
 
 <h2 align="center" style="color:black"> Layout do Projeto Concluído

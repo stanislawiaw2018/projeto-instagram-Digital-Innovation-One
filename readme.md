@@ -35,7 +35,7 @@
 
 Desafio feito no Bootcamp de **HTML Web Developer**, que consiste na recriação do layout de pagina inicial do instagram, envolvendo o conteúdo estudado durante o Bootcamp.
 
-Nesse layout foi trabalhado somente a parte do front-end, utilizando o **HTML5**, **CSS3** além dos conceitos de **CSS Flexbox**.
+Nesse layout foi trabalhado somente a parte do front-end, utilizando o **HTML5**, **CSS3** e sua tecnologia de transição. Além dos conceitos de **CSS Flexbox**.
 
 ## 🛠️ Tecnologias Utilizadas
 
